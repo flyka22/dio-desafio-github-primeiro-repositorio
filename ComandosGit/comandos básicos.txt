@@ -1,0 +1,14 @@
+dir   = listar 
+cd/   = navegue entre pastas 
+cd .. = retorna 
+mkdir = cria pasta 
+del   = elimina arquivos 
+rmdir = elimina repositorio (pasta)
+cls   = limpa 
+echo  = eco retorna 
+tecla tab = completa frase para nao haver erro de digitaçao 
+tecla seta para cima + volta ultimo comandos 
+
+rmdir /S /Q = remove repositorio
+ls -a = arquivos ocultos 
+ls    = listar 
